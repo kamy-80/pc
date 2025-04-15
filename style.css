@@ -4,3 +4,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+div
+{
+    width: 400px;
+    height: 500px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    box-shadow: 30px 30px 10px 10px;
+}
+
