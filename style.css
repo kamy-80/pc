@@ -14,3 +14,8 @@ div
     box-shadow: 30px 30px 10px 10px;
 }
 
+img
+{
+    width: inherit;
+    height: inherit;
+}
