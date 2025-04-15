@@ -16,6 +16,6 @@ div
 
 img
 {
-    width: inherit;
-    height: inherit;
+
+    box-sizing: inherit;
 }
